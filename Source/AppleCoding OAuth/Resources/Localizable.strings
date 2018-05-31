@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  AppleCoding OAuth
+
+  Created by Adolfo Vera Blasco on 30/5/18.
+  Copyright © 2018 desappstre {eStudio}. All rights reserved.
+*/
+
+//
+// SEARCH
+//
+
+"SEARCH_TITLE" = "Trending Shows";
